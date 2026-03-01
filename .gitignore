@@ -1,0 +1,30 @@
+# Environment
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+.next/
+out/
+
+# Generated
+generated_videos/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit (legacy)
+.streamlit/
